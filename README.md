@@ -38,4 +38,4 @@ Hans Techy Company Ltd inalenga kuboresha biashara na maisha kupitia ubunifu wa 
 ## ⚡ Jinsi ya Kutumia Tovuti
 1. Clone repository hii:
    ```bash
-   git clone https://github.com/username/hans-techy.git
+   git clone https://github.com/hanstech1/hans-techy.git
