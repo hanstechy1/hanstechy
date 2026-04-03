@@ -22,6 +22,11 @@ Hans Techy Company Ltd ni kampuni ya teknolojia na huduma za AI yenye makao Tanz
 - Email: hanstechy@outlook.com 
 - Tovuti: [www.hanstechy.co.tz](https://hanstechy1.github.io/HANS-TECHY/)
 
+
+## 📶Mitandao YA Kijamii
+- Facebook:[Hans Techy](https://www.facebook.com/share/1BwBAeJk2a/)
+- Instagram: [Hans Techy](https://www.instagram.com/hanstechy?igsh=MTlqb3VhbG1tdmphOA==)
+- Threads: []()
 ---
 
 ## 📖 Kuhusu
