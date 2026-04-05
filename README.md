@@ -20,7 +20,7 @@ Hans Techy Company Ltd ni kampuni ya teknolojia na huduma za AI yenye makao Tanz
 - Simu: +255 674 688 818 
         +255 686 005 775  
 - Email: hanstechy@outlook.com 
-- Tovuti: [www.hanstechy.co.tz](https://hanstechy1.github.io/HANS-TECHY/)
+- Tovuti: [www.hanstechy.co.tz](https://hanstechy1.github.io/hanstechy/ )
 
 ---
 ## 📶Mitandao YA Kijamii
